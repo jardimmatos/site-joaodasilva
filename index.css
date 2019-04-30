@@ -13,5 +13,45 @@
     border: 1px solid black;
     margin-top: 50px;
     font-family: 'Crimson Text', serif;
-    font-size: 18px;
+    font-size: 19px;
+    line-height: 1.5;
+    width: 60%;
+    text-align: justify;
+}
+
+body{
+    background-color: #F2FFFC;
+}
+
+.subtitulos{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.fiat{
+    border: 10px solid #C2CCCA;
+    background-color: #D9E5E3;
+    width: 35%;
+    text-align: justify;
+    padding-bottom: 30px;
+    float: right;
+    margin-left: 5%;
+}
+
+.petrobras{
+    border: 10px solid #C2CCCA;
+    background-color: #D9E5E3;
+    width: 35%;
+    text-align: justify;
+    float: left;
+    margin-right: 5%;
+}
+
+cite{
+    float: right;
+    line-height: 1;
+    padding-top: 20px;
+}
+
+.conteudo-principal{
+    border: 1px solid black;
 }
