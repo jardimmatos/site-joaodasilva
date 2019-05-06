@@ -15,8 +15,9 @@
     font-family: 'Crimson Text', serif;
     font-size: 19px;
     line-height: 1.5;
-    width: 60%;
+    width: 65%;
     text-align: justify;
+    margin-left: 5%;
 }
 
 body{
@@ -25,6 +26,7 @@ body{
 
 .subtitulos{
     font-family: 'Open Sans Condensed', sans-serif;
+
 }
 
 .fiat{
@@ -34,7 +36,8 @@ body{
     text-align: justify;
     padding-bottom: 30px;
     float: right;
-    margin-left: 5%;
+    margin-left: 7%;
+    margin-right: 5%;
 }
 
 .petrobras{
@@ -43,7 +46,8 @@ body{
     width: 35%;
     text-align: justify;
     float: left;
-    margin-right: 5%;
+    margin-right: 7%;
+    margin-left: 5%;
 }
 
 cite{
@@ -54,4 +58,14 @@ cite{
 
 .conteudo-principal{
     border: 1px solid black;
+    margin-bottom: 8%;
+}
+
+footer{
+    background-color: black;
+    color: #fff;
+    font-size: 18px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px; 
 }
