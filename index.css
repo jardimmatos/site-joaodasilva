@@ -67,5 +67,37 @@ footer{
     font-size: 18px;
     padding-top: 5px;
     padding-bottom: 5px;
-    padding-left: 20px; 
+    padding-left: 20px;
+    position: fixed;
+}
+
+.foto-joaodasilva{
+    border: 1px solid black;
+    border-bottom: 10px solid black;
+    border-left:  10px solid black;
+    box-sizing: border-box;
+    float: right;
+}
+
+.itens-navegacao{
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: #F2FFFC;
+    background-color: #3C1D3D;
+    position: relative; 
+    top: 311px;
+    left: 310px;
+    border-left: 10px solid black;
+    float: right;
+    clear: left;
+    width: 15%;
+    text-align: center;
+}
+
+.itens-navegacao h1{
+    font-size: 30px;
+}
+
+.itens-navegacao li{
+    list-style: none;
+    font-size: 20px;
 }
