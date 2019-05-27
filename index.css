@@ -122,3 +122,7 @@ footer{
 .linkedin{
     background-image: url(img/linkedin.png);
 }
+
+.strong{
+    font-weight: bold;
+}
