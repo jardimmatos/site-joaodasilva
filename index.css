@@ -15,7 +15,7 @@
     font-family: 'Crimson Text', serif;
     font-size: 19px;
     line-height: 1.5;
-    width: 65%;
+    width: 55%;
     text-align: justify;
     margin-left: 5%;
 }
@@ -58,7 +58,6 @@ cite{
 
 .conteudo-principal{
     border: 1px solid black;
-    margin-bottom: 8%;
 }
 
 footer{
@@ -91,6 +90,8 @@ footer{
     clear: left;
     width: 15%;
     text-align: center;
+    padding-bottom: 20px;
+    border-bottom: 10px solid black;
 }
 
 .itens-navegacao h1{
@@ -100,4 +101,24 @@ footer{
 .itens-navegacao li{
     list-style: none;
     font-size: 20px;
+}
+
+.itens-navegacao a{
+    margin-top: 20px;
+    text-indent: -99999px;
+    display: inline-block;
+    width: 40px;
+    height: 40px;;
+}
+
+.github{
+    background-image: url(img/github.png);
+}
+
+.twitter{
+    background-image: url(img/twitter.png);
+}
+
+.linkedin{
+    background-image: url(img/linkedin.png);
 }
